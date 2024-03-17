@@ -1,4 +1,5 @@
 # PhonePe Pulse Data Visualization and Exploration
+![image](https://github.com/ShagoulHameed/Project2-Phonepe/assets/154894802/aed340a0-9761-4ad0-ac2b-c9e6cdaf7edd)
 
 ## Introduction
 
@@ -82,6 +83,7 @@ To run this project, ensure the following packages are installed:
 - Ensure each decision is fortified with robust, data-driven analysis, transforming raw data into a powerful tool for informed and impactful choices.
 
 ### Project Demo Video
+![image](https://github.com/ShagoulHameed/Project2-Phonepe/assets/154894802/56fc4d33-7e77-43b9-998a-1aaf4c03353f)
 
 
 
