@@ -38,7 +38,7 @@ To run this project, ensure the following packages are installed:
 
 ### Data Collection
 
-- Clone PhonePe Pulse data from the GitHub repository to your local directory for seamless access.
+- Clone PhonePe Pulse data from the GitHub(https://github.com/PhonePe/pulse/tree/master/data) repository to your local directory for seamless access.
 - Streamline your data collection process effortlessly, exploring a rich variety of insightful metrics and analytics.
 - Make informed decisions with up-to-date data, ensuring precision in your analyses and strategies.
 
