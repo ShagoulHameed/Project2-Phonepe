@@ -83,6 +83,7 @@ To run this project, ensure the following packages are installed:
 - Ensure each decision is fortified with robust, data-driven analysis, transforming raw data into a powerful tool for informed and impactful choices.
 
 ### Project Demo Video
+https://www.linkedin.com/posts/shagoul-hameed_mysql-pythondeveloper-datavisualization-activity-7177242686666498048-82N1?utm_source=share&utm_medium=member_desktop
 ![image](https://github.com/ShagoulHameed/Project2-Phonepe/assets/154894802/56fc4d33-7e77-43b9-998a-1aaf4c03353f)
 
 
